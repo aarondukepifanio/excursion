@@ -1,0 +1,18 @@
+h1 {
+  font-family: Verdana; sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+body {
+background-color: black;
+text-align: center;
+}
+
+.seagreen {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
