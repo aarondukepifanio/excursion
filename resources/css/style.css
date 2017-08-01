@@ -1,18 +1,31 @@
-h1 {
-  font-family: Verdana; sans-serif;
+h1, h2 {
+  font-family: verdana;
   font-weight: bold;
   font-size: 50px;
   color: White;
   text-align: center;
 }
 
+p {
+  font-family: verdana;
+  color: gray;
+  text-align: center;
+}
+
 body {
-background-color: black;
-text-align: center;
+  background-color: black;
+  text-align: center;
 }
 
 .seagreen {
-  color: Aquamarine;
+  font-family: verdana;
+  color: aquamarine;
   font-size: 16px;
   text-align: center;
+  font-weight: bold;
+}
+
+.copy {
+  text-align: right;
+  color: gray;
 }
